@@ -12,7 +12,7 @@ It has the following features:
 * Some replacers have been implemented
 * Some crossovers have been implemented
 
-# Improvements to be made (coming soon)
+# Improvements to be made
 
 1. Speed, the principal issue is speed and some things can (must) be done about it.
 2. Documentation is also an issue, it has to be created.
